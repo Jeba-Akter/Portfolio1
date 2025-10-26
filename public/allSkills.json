@@ -17,16 +17,11 @@
       "image": "https://cdn.sanity.io/images/3do82whm/next/a69e3ba2441d35dd1a7945e826064708f30c10a9-1000x667.jpg?w=720&h=480&fit=clip&auto=format",
       "category": "Frontend"
     },
-    {
-      "id": 4,
-      "name": "TypeScript",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIyRcCSscntSgQBNW6RLokUKIRQ975HkHJaw&s",
-      "category": "Frontend"
-    },
+    
     {
       "id": 5,
       "name": "Tailwind CSS",
-      "image": "https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png",
       "category": "Frontend"
     },
     {
@@ -35,42 +30,9 @@
       "image": "https://cdn-icons-png.flaticon.com/512/1126/1126012.png",
       "category": "Frontend"
     },
-    {
-      "id": 7,
-      "name": "Next.js",
-      "image": "https://cdn.worldvectorlogo.com/logos/next-js.svg",
-      "category": "Frontend/Backend"
-    },
-    {
-      "id": 8,
-      "name": "Node.js",
-      "image": "https://cdn-icons-png.flaticon.com/512/919/919825.png",
-      "category": "Backend"
-    },
-    {
-      "id": 9,
-      "name": "MongoDB",
-      "image": "https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png",
-      "category": "Backend"
-    },
-    {
-      "id": 10,
-      "name": "Express.js",
-      "image": "https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png",
-      "category": "Backend"
-    },
-    {
-      "id": 11,
-      "name": "API Integration",
-      "image": "https://cdn-icons-png.flaticon.com/512/5956/5956595.png",
-      "category": "Tools"
-    },
-    {
-      "id": 12,
-      "name": "Postman",
-      "image": "https://cdn-icons-png.flaticon.com/512/528/528101.png",
-      "category": "Tools"
-    },
+   
+   
+  
     {
       "id": 13,
       "name": "GitHub",
@@ -83,22 +45,11 @@
       "image": "https://avatars.githubusercontent.com/u/44036562?s=200&v=4",
       "category": "Tools"
     },
-    {
-      "id": 15,
-      "name": "CI/CD",
-      "image": "https://cdn-icons-png.flaticon.com/512/4328/4328383.png",
-      "category": "Tools"
-    },
-    {
-      "id": 16,
-      "name": "VPS Hosting (Ubuntu)",
-      "image": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
-      "category": "Tools"
-    },
+   
     {
       "id": 17,
       "name": "Firebase",
-      "image": "https://cdn-icons-png.flaticon.com/512/5968/5968945.png",
+      "image": "https://www.gstatic.com/devrel-devsite/prod/v0a8f38b07c3863b7ced1d678d2584c8bd483c306fc4b8f547093e71dea088feb/firebase/images/touchicon-180.png",
       "category": "Tools"
     }
   ]

@@ -17,7 +17,7 @@ const AboutBanner = () => {
         className="justify-around gap-10 w-10/12 py-5 mx-auto grid sm:grid-cols-1 md:grid-cols-2"
         data-aos="fade-up"
       >
-        <div className=" w-full shadow-2xl rounded-2xl bg-green-300  ">
+        <div className=" w-full shadow-2xl rounded-2xl bg-green-100  ">
           <img
             src="https://i.ibb.co/kgtR19GJ/amazing-cheerful-business-woman-standing-with-arms-crossed-removebg-preview.png"
             alt=""
@@ -27,9 +27,9 @@ const AboutBanner = () => {
         <div className=" mt-10" data-aos="fade-up">
           <h1 className=" text-2xl font-bold  uppercase flex gap-2 py-2 ">
             {" "}
-            About <h2 className=" text-green-600">me</h2>
+            About <h2 className=" text-green-400">me</h2>
           </h1>
-          <h1 className=" text-4xl font-bold text-green-600 capitalize py-5">
+          <h1 className=" text-4xl font-bold text-green-400 capitalize py-5">
             i'm jeba akter
           </h1>
           <h2 className=" text-xl font-semibold text-gray-700 capitalize">
